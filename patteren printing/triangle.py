@@ -103,15 +103,15 @@ left hand ulta ok triangle code
   * * * * * 
     * * * 
       *  '''
-# n = 4 
-# for i in range (1,n+1):
-#     for j in range (0,i-1):
-#         print(" ",end  = " ")
-#     for k in range(i,n+1):
-#         print("*",end= " ")
-#     for r in range (i,n):
-#         print("*",end = " ")
-#     print()
+n = 4 
+for i in range (1,n+1):
+    for j in range (0,i-1):
+        print(" ",end  = " ")
+    for k in range(i,n+1):
+        print("*",end= " ")
+    for r in range (i,n):
+        print("*",end = " ")
+    print()
 
 
 
